@@ -52,3 +52,4 @@ Para mais informações sobre o projeto ou a equipe de desenvolvimento, entre em
 
 - [Bruna Silva](https://github.com/brunacsilva99)
 - [Felipe Urias](https://github.com/felpsur)
+- [Victor Lander](https://github.com/VictorLander22)

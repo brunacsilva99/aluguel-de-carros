@@ -18,6 +18,7 @@ module.exports = (sequelize, DataTypes) => {
       status: DataTypes.ENUM('em reserva', 'confirmado', 'retirado', 'devolvido', 'cancelado'),
       localRetirada: DataTypes.STRING,
       localDevolucao: DataTypes.STRING,
+      comentario: DataTypes.STRING  
     },
     {
       sequelize,

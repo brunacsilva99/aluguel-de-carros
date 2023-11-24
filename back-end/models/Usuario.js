@@ -17,6 +17,10 @@ module.exports = (sequelize, DataTypes) => {
       telefone: DataTypes.STRING,
       endereco: DataTypes.STRING,
       cpf: DataTypes.STRING,
+      cnh: DataTypes.STRING,
+      tipoCnh: DataTypes.STRING,
+      senha: DataTypes.STRING,
+      ativado: DataTypes.BOOLEAN,
       tipoUsuario: DataTypes.ENUM('admin', 'cliente', 'proprietario'),
     },
     {
